@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Bogdan</h1>
-<h3 align="center">A passionate Android Developer</h3>
+### Hi there 👋, my name is Bogdan
+#### I am an Android Developer
+![I am an Android Developer](https://media-exp1.licdn.com/dms/image/C4E16AQEhFS9UqJWB8A/profile-displaybackgroundimage-shrink_350_1400/0/1602926911423?e=1622073600&v=beta&t=9fRknggmneQoq2U1kl1J2ebFgOVBq0QJfyA4U-m51sg)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bogdan-lonchuk-aa2895177/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/bogdan-lonchuk-aa2895177/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/11785652/bogdan-lonchuk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/11785652/bogdan-lonchuk" height="30" width="40" /></a>
-</p>
+I have more than 3 years of experience creating Android applications. 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Contact me:</h3>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bgdlnchk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/bogdan-lonchuk-aa2895177/?locale=ru_RU/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/11785652/bogdan-lonchuk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://androiddeveloperblogger.blogspot.com/)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bgdlnchk)  
