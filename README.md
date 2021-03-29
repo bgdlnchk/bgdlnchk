@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Bogdan
-#### I am an Android Developer
-![I am an Android Developer](https://media-exp1.licdn.com/dms/image/C4E16AQEhFS9UqJWB8A/profile-displaybackgroundimage-shrink_350_1400/0/1602926911423?e=1622073600&v=beta&t=9fRknggmneQoq2U1kl1J2ebFgOVBq0QJfyA4U-m51sg)
+#### Android Developer
+![Android Developer](https://media-exp1.licdn.com/dms/image/C4E16AQEhFS9UqJWB8A/profile-displaybackgroundimage-shrink_350_1400/0/1602926911423?e=1622073600&v=beta&t=9fRknggmneQoq2U1kl1J2ebFgOVBq0QJfyA4U-m51sg)
 
 I have more than 3 years of experience creating Android applications. 
 
